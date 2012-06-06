@@ -53,7 +53,7 @@ projects[userprotect][subdir] = "contrib"
 ; Development
 ; ------------
 
-projects[devel] = 1.2
+projects[devel] = 1.3
 projects[devel][subdir] = "dev"
 
 projects[devel_themer] = 1.x-dev
@@ -457,7 +457,7 @@ projects[stringoverrides][subdir] = "contrib"
 projects[advanced_help] = 1.0-beta1
 projects[advanced_help][subdir] = "contrib"
 
-projects[backup_migrate] = 2.3
+projects[backup_migrate] = 2.4
 projects[backup_migrate][subdir] = "contrib"
 
 projects[backup_migrate_cloudfiles] = 1.0
