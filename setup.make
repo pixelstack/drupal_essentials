@@ -433,7 +433,7 @@ projects[social-share][subdir] = "contrib"
 projects[google_plusone] = 1.3
 projects[google_plusone][subdir] = "contrib"
 
-projects[twitter] = 3.0
+projects[twitter] = 3.1
 projects[twitter][subdir] = "contrib"
 
 projects[mailchimp] = 2.5
