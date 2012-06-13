@@ -65,7 +65,7 @@ projects[drupalforfirebug][subdir] = "dev"
 projects[shield] = 1.2
 projects[shield][subdir] = "contrib"
 
-projects[strongarm] = 2.0-rc1
+projects[strongarm] = 2.0
 projects[strongarm][subdir] = "contrib"
 
 projects[coder] = 1.0
