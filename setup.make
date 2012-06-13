@@ -308,7 +308,7 @@ projects[insert][subdir] = "contrib"
 projects[filefield_sources] = 1.4
 projects[filefield_sources][subdir] = "contrib"
 
-projects[imageeditor] = 1.8
+projects[imageeditor] = 1.9
 projects[imageeditor][subdir] = "contrib"
 
 projects[lightbox2] = 1.0-beta1
