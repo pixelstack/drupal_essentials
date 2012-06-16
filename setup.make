@@ -550,10 +550,10 @@ projects[seckit][subdir] = "contrib"
 projects[security_review] = 1.0
 projects[security_review][subdir] = "contrib"
 
-projects[features] = 1.0-rc2
+projects[features] = 1.0-rc3
 projects[features][subdir] = "contrib"
 
-projects[features_override] = 2.0-alpha1
+projects[features_override] = 2.0-beta1
 projects[features_override][subdir] = "contrib"
 
 projects[uuid_features] = 1.0-alpha1
