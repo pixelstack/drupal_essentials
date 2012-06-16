@@ -334,6 +334,9 @@ projects[adaptive_image][subdir] = "contrib"
 projects[modernizr] = 2.1
 projects[modernizr][subdir] = "contrib"
 
+projects[bean] = 1.0-rc5
+projects[bean][subdir] = "contrib"
+
 projects[panels] = 3.2
 projects[panels][subdir] = "contrib"
 
