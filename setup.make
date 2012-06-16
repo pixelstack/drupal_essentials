@@ -400,7 +400,7 @@ projects[fontyourface][subdir] = "contrib"
 ; SEO
 ; ------------
 
-projects[globalredirect] = 1.4
+projects[globalredirect] = 1.5
 projects[globalredirect][subdir] = "contrib"
 
 projects[google_analytics] = 1.2
