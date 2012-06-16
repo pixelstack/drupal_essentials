@@ -86,6 +86,9 @@ projects[commerce_file][subdir] = "contrib"
 projects[commerce_shipping] = 2.0-beta1
 projects[commerce_shipping][subdir] = "contrib"
 
+projects[commerce_saleprice] = 1.0-beta2
+projects[commerce_saleprice][subdir] = "contrib"
+
 projects[commerce_bank_transfer] = 1.0-alpha3
 projects[commerce_bank_transfer][subdir] = "contrib"
 
