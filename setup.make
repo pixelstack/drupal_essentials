@@ -448,6 +448,9 @@ projects[mailchimp][subdir] = "contrib"
 ; System
 ; ------------
 
+projects[mandrill] = 1.0-beta1
+projects[mandrill][subdir] = "contrib"
+
 projects[libraries] = 1.0
 projects[libraries][subdir] = "contrib"
 
