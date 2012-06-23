@@ -38,6 +38,9 @@ projects[nodeaccess_nodereference][subdir] = "contrib"
 projects[logintoboggan] = 1.3
 projects[logintoboggan][subdir] = "contrib"
 
+projects[login_destination] = 1.0
+projects[login_destination][subdir] = "contrib"
+
 projects[menu_admin_per_menu] = 1.0
 projects[menu_admin_per_menu][subdir] = "contrib"
 
@@ -269,6 +272,9 @@ projects[addressfield][subdir] = "contrib"
 projects[references] = 2.0
 projects[references][subdir] = "contrib"
 
+projects[nodereference_url] = 1.12
+projects[nodereference_url][subdir] = "contrib"
+
 projects[entityreference] = 1.0-rc3
 projects[entityreference][subdir] = "contrib"
 
@@ -451,6 +457,12 @@ projects[mailchimp][subdir] = "contrib"
 projects[mandrill] = 1.0-beta1
 projects[mandrill][subdir] = "contrib"
 
+projects[auto_nodetitle] = 1.0
+projects[auto_nodetitle][subdir] = "contrib"
+
+projects[admin_select] = 1.2
+projects[admin_select][subdir] = "contrib"
+
 projects[libraries] = 1.0
 projects[libraries][subdir] = "contrib"
 
@@ -507,6 +519,9 @@ projects[transliteration][subdir] = "contrib"
 
 projects[scheduled_actions] = 1.2
 projects[scheduled_actions][subdir] = "contrib"
+
+projects[scheduler] = 1.0
+projects[scheduler][subdir] = "contrib"
 
 projects[uuid] = 1.0-alpha2
 projects[uuid][subdir] = "contrib"
