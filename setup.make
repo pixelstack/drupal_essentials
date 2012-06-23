@@ -172,7 +172,7 @@ projects[honeypot][subdir] = "contrib"
 ; projects[cck][subdir] = "contrib"
 ; In DEV still can use for migrating cck to fields in D6
 
-projects[select_or_other] = 2.10
+projects[select_or_other] = 2.11
 projects[select_or_other][subdir] = "contrib"
 
 projects[field_group] = 1.1
