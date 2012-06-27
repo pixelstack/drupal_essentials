@@ -580,7 +580,7 @@ projects[features_extra][subdir] = "contrib"
 projects[uuid_features] = 1.0-alpha1
 projects[uuid_features][subdir] = "contrib"
 
-projects[feature_set] = 1.0
+projects[feature_set] = 1.1
 projects[feature_set][subdir] = "contrib"
 
 projects[workflow] = 1.0
