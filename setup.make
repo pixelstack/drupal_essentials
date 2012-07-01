@@ -205,7 +205,7 @@ projects[plup][subdir] = "contrib"
 ; Other Promising Uploads - http://drupal.org/sandbox/czigor/1115362
 ; - Requires Plupload, but works well - http://drupal.org/sandbox/vingborg/1138512
 
-projects[media] = 1.1
+projects[media] = 1.2
 projects[media][subdir] = "contrib"
 
 projects[emfield] = 1.0-alpha1
