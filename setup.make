@@ -454,7 +454,7 @@ projects[mailchimp][subdir] = "contrib"
 ; System
 ; ------------
 
-projects[mandrill] = 1.0-beta1
+projects[mandrill] = 1.0
 projects[mandrill][subdir] = "contrib"
 
 projects[auto_nodetitle] = 1.0
