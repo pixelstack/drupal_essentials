@@ -460,7 +460,7 @@ projects[mandrill][subdir] = "contrib"
 projects[auto_nodetitle] = 1.0
 projects[auto_nodetitle][subdir] = "contrib"
 
-projects[admin_select] = 1.2
+projects[admin_select] = 1.3
 projects[admin_select][subdir] = "contrib"
 
 projects[libraries] = 1.0
