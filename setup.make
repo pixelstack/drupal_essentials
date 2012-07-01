@@ -457,6 +457,9 @@ projects[mailchimp][subdir] = "contrib"
 projects[mandrill] = 1.0
 projects[mandrill][subdir] = "contrib"
 
+projects[sendgrid_integration] = 1.0-alpha2
+projects[sendgrid_integration][subdir] = "contrib"
+
 projects[auto_nodetitle] = 1.0
 projects[auto_nodetitle][subdir] = "contrib"
 
