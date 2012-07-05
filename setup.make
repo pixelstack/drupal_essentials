@@ -324,12 +324,12 @@ projects[lightbox2] = 1.0-beta1
 projects[lightbox2][subdir] = "contrib"
 
 ; Multiupload Filefield Widget
-; projects[1115362] = 1.0
-; projects[1115362][subdir] = "contrib"
+projects[multiupload_filefield_widget] = 1.0
+projects[multiupload_filefield_widget][subdir] = "contrib"
 
 ; Multiupload Imagefield Widget
-; projects[multiupload_imagefield_widget] = 1.0
-; projects[multiupload_imagefield_widget][subdir] = "contrib"
+projects[multiupload_imagefield_widget] = 1.0
+projects[multiupload_imagefield_widget][subdir] = "contrib"
 
 projects[adaptive_image] = 1.4
 projects[adaptive_image][subdir] = "contrib"
