@@ -595,7 +595,7 @@ projects[purr_messages][subdir] = "contrib"
 ; Languages
 ; ------------
 
-projects[i18n] = 1.6
+projects[i18n] = 1.7
 projects[i18n][subdir] = "contrib"
 
 ; projects[i18nviews] = 2.0
