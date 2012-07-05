@@ -532,7 +532,7 @@ projects[uuid][subdir] = "contrib"
 projects[nagios] = 1.2
 projects[nagios][subdir] = "contrib"
 
-projects[variable] = 2.0
+projects[variable] = 2.1
 projects[variable][subdir] = "contrib"
 
 projects[elysia_cron] = 2.1
