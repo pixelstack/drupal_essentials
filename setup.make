@@ -331,9 +331,6 @@ projects[multiupload_filefield_widget][subdir] = "contrib"
 projects[multiupload_imagefield_widget] = 1.0
 projects[multiupload_imagefield_widget][subdir] = "contrib"
 
-projects[adaptive_image] = 1.4
-projects[adaptive_image][subdir] = "contrib"
-
 ; Layout
 ; ------------
 
