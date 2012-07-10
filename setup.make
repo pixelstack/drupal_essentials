@@ -184,6 +184,9 @@ projects[field_group][subdir] = "contrib"
 projects[field_validation] = 2.0-beta2
 projects[field_validation][subdir] = "contrib"
 
+projects[clientside_validation] = 1.33
+projects[clientside_validation][subdir] = "contrib"
+
 projects[date] = 2.5
 projects[date][subdir] = "contrib"
 
