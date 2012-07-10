@@ -181,7 +181,7 @@ projects[select_or_other][subdir] = "contrib"
 projects[field_group] = 1.1
 projects[field_group][subdir] = "contrib"
 
-projects[field_validation] = 2.0-beta2
+projects[field_validation] = 2.0
 projects[field_validation][subdir] = "contrib"
 
 projects[clientside_validation] = 1.33
