@@ -110,7 +110,7 @@ projects[commerce_option][subdir] = "contrib"
 projects[commerce_product_attributes] = 1.0-beta3
 projects[commerce_product_attributes][subdir] = "contrib"
 
-projects[commerce_stock] = 1.0
+projects[commerce_stock] = 1.1
 projects[commerce_stock][subdir] = "contrib"
 
 projects[commerce_shipping_flat_rate] = 1.0-beta1
