@@ -463,6 +463,9 @@ projects[sendgrid_integration][subdir] = "contrib"
 projects[auto_nodetitle] = 1.0
 projects[auto_nodetitle][subdir] = "contrib"
 
+projects[content_lock] = 1.4
+projects[content_lock][subdir] = "contrib"
+
 projects[admin_select] = 1.3
 projects[admin_select][subdir] = "contrib"
 
