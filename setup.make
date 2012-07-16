@@ -231,6 +231,9 @@ projects[media_vimeo][subdir] = "contrib"
 projects[media_crop] = 1.4
 projects[media_crop][subdir] = "contrib"
 
+projects[media_gallery] = 1.0-beta8
+projects[media_gallery][subdir] = "contrib"
+
 projects[media-nivo-slider] = 2.0
 projects[media-nivo-slider][subdir] = "contrib"
 
