@@ -290,9 +290,6 @@ projects[entityreference][subdir] = "contrib"
 projects[image_resize_filter] = 1.13
 projects[image_resize_filter][subdir] = "contrib"
 
-projects[shadowbox] = 3.0-beta8
-projects[shadowbox][subdir] = "contrib"
-
 projects[imagecrop] = 1.0-rc3
 projects[imagecrop][subdir] = "contrib"
 
@@ -669,11 +666,6 @@ libraries[zendgdata][download][type] = "get"
 libraries[zendgdata][download][url] = "http://framework.zend.com/releases/ZendGdata-1.10.8/ZendGdata-1.10.8.tar.gz"
 libraries[zendgdata][directory_name] = "ZendGdata-1.10.8"
 libraries[zendgdata][destination] = "libraries"
-
-libraries[shadowbox][download][type] = "get"
-libraries[shadowbox][download][url] = "http://freestylesystems.co.uk/sites/freestylesystems.co.uk/files/shadowbox-3.0.2.tgz"
-libraries[shadowbox][directory_name] = "shadowbox"
-libraries[shadowbox][destination] = "libraries"
 
 libraries[plupload][download][type] = "get"
 libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_2.zip"
