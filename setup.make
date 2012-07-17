@@ -445,6 +445,9 @@ projects[site_verify][subdir] = "contrib"
 projects[social-share] = 1.10
 projects[social-share][subdir] = "contrib"
 
+projects[sharethis] = 2.4
+projects[sharethis][subdir] = "contrib"
+
 projects[google_plusone] = 1.3
 projects[google_plusone][subdir] = "contrib"
 
