@@ -296,6 +296,9 @@ projects[image_resize_filter][subdir] = "contrib"
 projects[imagecrop] = 1.0-rc3
 projects[imagecrop][subdir] = "contrib"
 
+projects[epsacrop] = 2.2
+projects[epsacrop][subdir] = "contrib"
+
 projects[image_style_quality] = 1.1
 projects[image_style_quality][subdir] = "contrib"
 
