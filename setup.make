@@ -463,6 +463,9 @@ projects[mailchimp][subdir] = "contrib"
 ; System
 ; ------------
 
+projects[lazyloader] = 1.1
+projects[lazyloader][subdir] = "contrib"
+
 projects[mandrill] = 1.0
 projects[mandrill][subdir] = "contrib"
 
