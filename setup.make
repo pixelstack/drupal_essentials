@@ -406,7 +406,7 @@ projects[sassy][subdir] = "contrib"
 projects[prepro] = 0.4
 projects[prepro][subdir] = "contrib"
 
-projects[poshy_tip] = 1.0-beta1
+projects[poshy_tip] = 1.0-beta2
 projects[poshy_tip][subdir] = "contrib"
 
 projects[fontyourface] = 2.3
