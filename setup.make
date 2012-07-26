@@ -237,7 +237,7 @@ projects[media_gallery][subdir] = "contrib"
 projects[media-nivo-slider] = 2.0
 projects[media-nivo-slider][subdir] = "contrib"
 
-projects[video] = 2.6
+projects[video] = 2.7
 projects[video][subdir] = "contrib"
 
 projects[video_embed_field] = 2.0-beta4
