@@ -260,7 +260,7 @@ projects[webform_alt_ui][subdir] = "contrib"
 projects[webform_conditional] = 1.0-alpha2
 projects[webform_conditional][subdir] = "contrib"
 
-projects[webform_rules] = 1.3
+projects[webform_rules] = 1.4
 projects[webform_rules][subdir] = "contrib"
 
 projects[form_builder] = 1.0
