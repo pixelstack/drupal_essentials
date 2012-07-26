@@ -62,6 +62,9 @@ projects[devel][subdir] = "dev"
 projects[devel_themer] = 1.x-dev
 projects[devel_themer][subdir] = "dev"
 
+projects[commerce_devel] = 1.0-beta5
+projects[commerce_devel][subdir] = "contrib"
+
 projects[drupalforfirebug] = 1.2
 projects[drupalforfirebug][subdir] = "dev"
 
