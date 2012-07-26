@@ -589,7 +589,7 @@ projects[seckit][subdir] = "contrib"
 projects[security_review] = 1.0
 projects[security_review][subdir] = "contrib"
 
-projects[features] = 1.0-rc3
+projects[features] = 1.0
 projects[features][subdir] = "contrib"
 
 projects[features_override] = 2.0-beta1
