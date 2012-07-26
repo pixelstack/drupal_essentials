@@ -196,7 +196,7 @@ projects[calendar][subdir] = "contrib"
 projects[diff] = 2.0
 projects[diff][subdir] = "contrib"
 
-projects[relation] = 1.0-rc2
+projects[relation] = 1.0-rc3
 projects[relation][subdir] = "contrib"
 
 projects[plupload] = 1.0
