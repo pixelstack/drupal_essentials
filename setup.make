@@ -457,7 +457,7 @@ projects[google_plusone][subdir] = "contrib"
 projects[twitter] = 3.1
 projects[twitter][subdir] = "contrib"
 
-projects[mailchimp] = 2.5
+projects[mailchimp] = 2.6
 projects[mailchimp][subdir] = "contrib"
 
 ; System
