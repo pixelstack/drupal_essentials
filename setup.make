@@ -361,7 +361,7 @@ projects[ds][subdir] = "contrib"
 projects[styleguide] = 1.0
 projects[styleguide][subdir] = "contrib"
 
-projects[themekey] = 2.2
+projects[themekey] = 2.3
 projects[themekey][subdir] = "contrib"
 
 projects[views] = 3.3
