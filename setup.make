@@ -490,7 +490,7 @@ projects[libraries][subdir] = "contrib"
 projects[admin_menu] = 3.0-rc3
 projects[admin_menu][subdir] = "contrib"
 
-projects[wm] = 1.7
+projects[wm] = 1.8
 projects[wm][subdir] = "contrib"
 
 projects[stringoverrides] = 1.8
