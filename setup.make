@@ -466,6 +466,9 @@ projects[mailchimp][subdir] = "contrib"
 projects[lazyloader] = 1.1
 projects[lazyloader][subdir] = "contrib"
 
+projects[better_formats] = 1.0-beta1
+projects[better_formats][subdir] = "contrib"
+
 projects[mandrill] = 1.0
 projects[mandrill][subdir] = "contrib"
 
