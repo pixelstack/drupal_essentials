@@ -122,7 +122,7 @@ projects[commerce_cheque][subdir] = "contrib"
 projects[commerce_multicurrency] = 1.0
 projects[commerce_multicurrency][subdir] = "contrib"
 
-projects[commerce_price_savings_formatter] = 1.2
+projects[commerce_price_savings_formatter] = 1.3
 projects[commerce_price_savings_formatter][subdir] = "contrib"
 
 projects[commerce_extra_price_formatters] = 1.1
