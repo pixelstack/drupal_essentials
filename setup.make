@@ -263,7 +263,7 @@ projects[webform_conditional][subdir] = "contrib"
 projects[webform_rules] = 1.4
 projects[webform_rules][subdir] = "contrib"
 
-projects[form_builder] = 1.0
+projects[form_builder] = 1.1
 projects[form_builder][subdir] = "contrib"
 
 projects[ux_elements] = 1.0-beta1
