@@ -134,6 +134,9 @@ projects[commerce_extra_price_formatters][subdir] = "contrib"
 projects[commerce_australia] = 1.0
 projects[commerce_australia][subdir] = "contrib"
 
+projects[commerce_moa] = 1.2
+projects[commerce_moa][subdir] = "contrib"
+
 projects[ubercart] = 3.1
 projects[ubercart][subdir] = "contrib"
 
