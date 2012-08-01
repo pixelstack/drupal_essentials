@@ -388,7 +388,7 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[views_slideshow] = 3.0
 projects[views_slideshow][subdir] = "contrib"
 
-projects[views_slideshow_galleria] = 3.0
+projects[views_slideshow_galleria] = 3.1
 projects[views_slideshow_galleria][subdir] = "contrib"
 
 projects[views_dependent_filters] = 1.0
