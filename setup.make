@@ -532,7 +532,7 @@ projects[nodequeue][subdir] = "contrib"
 projects[rules] = 2.1
 projects[rules][subdir] = "contrib"
 
-projects[search404] = 1.1
+projects[search404] = 1.2
 projects[search404][subdir] = "contrib"
 
 ; projects[] = swftools
