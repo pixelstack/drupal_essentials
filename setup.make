@@ -101,6 +101,9 @@ projects[commerce_bank_transfer][subdir] = "contrib"
 projects[commerce_paypal] = 1.x-dev
 projects[commerce_paypal][subdir] = "contrib"
 
+projects[commerce_paypal_ec] = 1.0-alpha3
+projects[commerce_paypal_ec][subdir] = "contrib"
+
 projects[commerce_eway] = 1.0-beta2
 projects[commerce_eway][subdir] = "contrib"
 
