@@ -15,7 +15,7 @@ core = 7.x
 ; ------------
 
 projects[drupal][type] = core
-projects[drupal][version] = 7.14
+projects[drupal][version] = 7.15
 
 ; Projects
 ; ------------
@@ -32,7 +32,7 @@ projects[content_access][subdir] = "contrib"
 projects[nodeaccess_userreference] = 3.8
 projects[nodeaccess_userreference][subdir] = "contrib"
 
-projects[nodeaccess_nodereference] = 1.21
+projects[nodeaccess_nodereference] = 1.22
 projects[nodeaccess_nodereference][subdir] = "contrib"
 
 projects[logintoboggan] = 1.3
