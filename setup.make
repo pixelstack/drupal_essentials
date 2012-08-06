@@ -535,7 +535,7 @@ projects[jquery_update][subdir] = "contrib"
 projects[nodequeue] = 2.0-beta1
 projects[nodequeue][subdir] = "contrib"
 
-projects[rules] = 2.1
+projects[rules] = 2.2
 projects[rules][subdir] = "contrib"
 
 projects[search404] = 1.2
