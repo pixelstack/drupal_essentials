@@ -430,8 +430,8 @@ projects[globalredirect][subdir] = "contrib"
 projects[google_analytics] = 1.2
 projects[google_analytics][subdir] = "contrib"
 
-projects[metatags] = 1.0-alpha6
-projects[metatags][subdir] = "contrib"
+projects[metatag] = 1.0-alpha7
+projects[metatag][subdir] = "contrib"
 
 projects[page_title] = 2.7
 projects[page_title][subdir] = "contrib"
