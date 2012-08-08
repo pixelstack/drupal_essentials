@@ -406,7 +406,7 @@ projects[piecemaker][subdir] = "contrib"
 ; projects[] = views_bonus
 ; No Known 7.x Branch planned 7.x Dev Branch
 
-projects[less] = 2.5
+projects[less] = 2.6
 projects[less][subdir] = "contrib"
 
 projects[sassy] = 2.12
