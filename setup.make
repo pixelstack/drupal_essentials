@@ -544,7 +544,7 @@ projects[search404][subdir] = "contrib"
 ; projects[] = swftools
 ; No Known 7.x Branch
 
-projects[token] = 1.1
+projects[token] = 1.2
 projects[token][subdir] = "contrib"
 
 projects[transliteration] = 3.1
