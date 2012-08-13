@@ -361,7 +361,7 @@ projects[bean][subdir] = "contrib"
 projects[panels] = 3.2
 projects[panels][subdir] = "contrib"
 
-projects[context] = 3.0-beta3
+projects[context] = 3.0-beta4
 projects[context][subdir] = "contrib"
 
 projects[ds] = 1.5
