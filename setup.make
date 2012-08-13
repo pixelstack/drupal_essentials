@@ -397,7 +397,7 @@ projects[views_dependent_filters][subdir] = "contrib"
 projects[better_exposed_filters] = 3.0-beta1
 projects[better_exposed_filters][subdir] = "contrib"
 
-projects[global_filter] = 1.5
+projects[global_filter] = 1.7
 projects[global_filter][subdir] = "contrib"
 
 projects[piecemaker] = 1.0
