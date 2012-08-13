@@ -92,7 +92,7 @@ projects[commerce_file][subdir] = "contrib"
 projects[commerce_shipping] = 2.0-beta1
 projects[commerce_shipping][subdir] = "contrib"
 
-projects[commerce_saleprice] = 1.0-beta3
+projects[commerce_saleprice] = 1.0-beta4
 projects[commerce_saleprice][subdir] = "contrib"
 
 projects[commerce_bank_transfer] = 1.0-alpha3
