@@ -107,7 +107,7 @@ projects[commerce_paypal_ec][subdir] = "contrib"
 projects[commerce_eway] = 1.0-beta2
 projects[commerce_eway][subdir] = "contrib"
 
-projects[commerce_features] = 1.0-alpha1
+projects[commerce_features] = 1.0-beta1
 projects[commerce_features][subdir] = "contrib"
 
 projects[commerce_option] = 1.0-beta2
