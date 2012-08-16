@@ -196,7 +196,7 @@ projects[field_validation][subdir] = "contrib"
 projects[clientside_validation] = 1.34
 projects[clientside_validation][subdir] = "contrib"
 
-projects[date] = 2.5
+projects[date] = 2.6
 projects[date][subdir] = "contrib"
 
 projects[calendar] = 3.3
