@@ -520,7 +520,7 @@ projects[backup_migrate_cloudfiles][subdir] = "contrib"
 ; projects[] = config_perms
 ; In Dev not shown on page but in git
 
-projects[ctools] = 1.1
+projects[ctools] = 1.2
 projects[ctools][subdir] = "contrib"
 
 projects[entity] = 1.0-rc3
