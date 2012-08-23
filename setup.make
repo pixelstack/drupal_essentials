@@ -29,7 +29,7 @@ projects[acl][subdir] = "contrib"
 projects[content_access] = 1.2-beta1
 projects[content_access][subdir] = "contrib"
 
-projects[nodeaccess_userreference] = 3.8
+projects[nodeaccess_userreference] = 3.9
 projects[nodeaccess_userreference][subdir] = "contrib"
 
 projects[nodeaccess_nodereference] = 1.22
