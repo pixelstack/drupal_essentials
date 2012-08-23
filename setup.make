@@ -86,7 +86,7 @@ projects[commerce][subdir] = "contrib"
 projects[commerce_coupon] = 1.0-beta5
 projects[commerce_coupon][subdir] = "contrib"
 
-projects[commerce_file] = 1.0-beta3
+projects[commerce_file] = 1.0-beta4
 projects[commerce_file][subdir] = "contrib"
 
 projects[commerce_shipping] = 2.0-beta1
