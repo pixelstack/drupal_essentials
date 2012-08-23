@@ -358,7 +358,7 @@ projects[custom_breadcrumbs][subdir] = "contrib"
 projects[bean] = 1.0-rc5
 projects[bean][subdir] = "contrib"
 
-projects[panels] = 3.2
+projects[panels] = 3.3
 projects[panels][subdir] = "contrib"
 
 projects[context] = 3.0-beta4
