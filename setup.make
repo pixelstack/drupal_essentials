@@ -472,6 +472,9 @@ projects[mailchimp][subdir] = "contrib"
 ; System
 ; ------------
 
+projects[coffee] = 1.0
+projects[coffee][subdir] = "contrib"
+
 projects[autosave] = 2.0
 projects[autosave][subdir] = "contrib"
 
