@@ -475,6 +475,9 @@ projects[mailchimp][subdir] = "contrib"
 projects[coffee] = 1.0
 projects[coffee][subdir] = "contrib"
 
+projects[module_filter] = 1.7
+projects[module_filter][subdir] = "contrib"
+
 projects[autosave] = 2.0
 projects[autosave][subdir] = "contrib"
 
