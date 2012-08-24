@@ -705,6 +705,7 @@ libraries[zendgdata][destination] = "libraries"
 
 libraries[jquerycycle][download][type] = "get"
 libraries[jquerycycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
+libraries[jquerycycle][download][filename] = "jquery.cycle.all.min.js"
 libraries[jquerycycle][directory_name] = "jquery.cycle"
 libraries[jquerycycle][destination] = "libraries"
 
