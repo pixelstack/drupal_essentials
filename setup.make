@@ -703,6 +703,11 @@ libraries[zendgdata][download][url] = "http://framework.zend.com/releases/ZendGd
 libraries[zendgdata][directory_name] = "ZendGdata-1.10.8"
 libraries[zendgdata][destination] = "libraries"
 
+libraries[jquerycycle][download][type] = "get"
+libraries[jquerycycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
+libraries[jquerycycle][directory_name] = "jquery.cycle"
+libraries[jquerycycle][destination] = "libraries"
+
 libraries[plupload][download][type] = "get"
 libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_2.zip"
 libraries[plupload][directory_name] = "plupload"
