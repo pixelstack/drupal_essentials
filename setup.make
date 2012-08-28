@@ -373,7 +373,7 @@ projects[styleguide][subdir] = "contrib"
 projects[themekey] = 2.3
 projects[themekey][subdir] = "contrib"
 
-projects[views] = 3.4
+projects[views] = 3.5
 projects[views][subdir] = "contrib"
 
 projects[admin_views] = 1.0-alpha1
