@@ -326,7 +326,7 @@ projects[adaptive_image][subdir] = "contrib"
 projects[cs_adaptive_image] = 1.0-alpha2
 projects[cs_adaptive_image][subdir] = "contrib"
 
-projects[insert] = 1.1
+projects[insert] = 1.2
 projects[insert][subdir] = "contrib"
 
 projects[filefield_sources] = 1.4
