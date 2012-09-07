@@ -523,6 +523,9 @@ projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate_cloudfiles] = 1.0
 projects[backup_migrate_cloudfiles][subdir] = "contrib"
 
+projects[cloudflare] = 1.0-beta2
+projects[cloudflare][subdir] = "contrib"
+
 ; projects[] = config_perms
 ; In Dev not shown on page but in git
 
