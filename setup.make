@@ -698,6 +698,11 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
+libraries[modernizr][download][type] = "git"
+libraries[modernizr][download][url] = "https://github.com/Modernizr/Modernizr.git"
+libraries[modernizr][filename] = "modernizr.min.js"
+libraries[modernizr][destination] = "libraries"
+
 libraries[zendgdata][download][type] = "get"
 libraries[zendgdata][download][url] = "http://framework.zend.com/releases/ZendGdata-1.10.8/ZendGdata-1.10.8.tar.gz"
 libraries[zendgdata][directory_name] = "ZendGdata-1.10.8"
@@ -714,8 +719,3 @@ libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plu
 libraries[plupload][directory_name] = "plupload"
 libraries[plupload][destination] = "libraries"
 
-libraries[modernizr][download][type] = "git"
-; libraries[modernizr][download][tag] = "1.6"
-libraries[modernizr][download][url] = "https://github.com/Modernizr/Modernizr.git"
-libraries[modernizr][filename] = "modernizr.min.js"
-libraries[modernizr][destination] = "libraries"
