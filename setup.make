@@ -598,7 +598,7 @@ projects[workbench_moderation][subdir] = "contrib"
 projects[workbench_files] = 1.0
 projects[workbench_files][subdir] = "contrib"
 
-projects[workbench_media] = 1.0
+projects[workbench_media] = 1.1
 projects[workbench_media][subdir] = "contrib"
 
 projects[seckit] = 1.3
