@@ -409,7 +409,7 @@ projects[piecemaker][subdir] = "contrib"
 projects[less] = 2.6
 projects[less][subdir] = "contrib"
 
-projects[sassy] = 2.12
+projects[sassy] = 2.13
 projects[sassy][subdir] = "contrib"
 
 projects[prepro] = 0.4
