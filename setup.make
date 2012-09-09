@@ -98,7 +98,7 @@ projects[commerce_saleprice][subdir] = "contrib"
 projects[commerce_bank_transfer] = 1.0-alpha3
 projects[commerce_bank_transfer][subdir] = "contrib"
 
-projects[commerce_paypal] = 1.x-dev
+projects[commerce_paypal] = 1.0-rc1
 projects[commerce_paypal][subdir] = "contrib"
 
 projects[commerce_paypal_ec] = 1.0-alpha3
