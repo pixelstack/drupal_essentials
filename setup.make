@@ -535,6 +535,9 @@ projects[ctools][subdir] = "contrib"
 projects[entity] = 1.0-rc3
 projects[entity][subdir] = "contrib"
 
+projects[inline_entity_form] = 7.x-1.0-beta4
+projects[inline_entity_form][subdir] = "contrib"
+
 projects[jammer] = 1.2
 projects[jammer][subdir] = "contrib"
 
