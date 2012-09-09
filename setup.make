@@ -604,7 +604,7 @@ projects[workbench_files][subdir] = "contrib"
 projects[workbench_media] = 1.1
 projects[workbench_media][subdir] = "contrib"
 
-projects[seckit] = 1.3
+projects[seckit] = 1.4
 projects[seckit][subdir] = "contrib"
 
 projects[security_review] = 1.0
