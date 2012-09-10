@@ -376,7 +376,7 @@ projects[themekey][subdir] = "contrib"
 projects[views] = 3.5
 projects[views][subdir] = "contrib"
 
-projects[admin_views] = 1.0-alpha1
+projects[admin_views] = 1.0
 projects[admin_views][subdir] = "contrib"
 
 projects[menu_block] = 2.3
