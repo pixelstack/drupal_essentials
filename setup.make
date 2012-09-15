@@ -176,9 +176,8 @@ projects[mollom][subdir] = "contrib"
 projects[honeypot] = 1.12
 projects[honeypot][subdir] = "contrib"
 
-; projects[eck] = 2.0-beta1
-; projects[eck][subdir] = "contrib"
-; Unsupported but used for creating entity types
+projects[eck] = 2.0-rc1
+projects[eck][subdir] = "contrib"
 
 ; projects[cck] = 2.x-dev
 ; projects[cck][subdir] = "contrib"
