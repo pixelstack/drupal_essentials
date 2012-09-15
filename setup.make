@@ -692,7 +692,7 @@ projects[memcache][subdir] = "contrib"
 
 projects[zen] = 5.1
 
-projects[adaptivetheme] = 2.3
+projects[adaptivetheme] = 3.1
 
 
 ; Libraries
