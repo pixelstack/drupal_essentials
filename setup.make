@@ -140,7 +140,7 @@ projects[commerce_australia][subdir] = "contrib"
 projects[commerce_moa] = 1.4
 projects[commerce_moa][subdir] = "contrib"
 
-projects[ubercart] = 3.1
+projects[ubercart] = 3.2
 projects[ubercart][subdir] = "contrib"
 
 projects[uc_ssl] = 1.01
