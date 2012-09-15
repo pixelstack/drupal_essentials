@@ -382,7 +382,7 @@ projects[admin_views][subdir] = "contrib"
 projects[menu_block] = 2.3
 projects[menu_block][subdir] = "contrib"
 
-projects[views_bulk_operations] = 3.0-beta2
+projects[views_bulk_operations] = 3.0
 projects[views_bulk_operations][subdir] = "contrib"
 
 projects[views_slideshow] = 3.0
