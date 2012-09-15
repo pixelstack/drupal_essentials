@@ -277,7 +277,7 @@ projects[form_builder][subdir] = "contrib"
 projects[ux_elements] = 1.0-beta1
 projects[ux_elements][subdir] = "contrib"
 
-projects[options_element] = 1.7
+projects[options_element] = 1.8
 projects[options_element][subdir] = "contrib"
 
 projects[addressfield] = 1.0-beta3
