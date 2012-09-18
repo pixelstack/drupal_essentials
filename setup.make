@@ -393,6 +393,9 @@ projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow_galleria] = 3.1
 projects[views_slideshow_galleria][subdir] = "contrib"
 
+projects[flexslider] = 1.0-rc3
+projects[flexslider][subdir] = "contrib"
+
 projects[views_dependent_filters] = 1.0
 projects[views_dependent_filters][subdir] = "contrib"
 
@@ -715,6 +718,11 @@ libraries[zendgdata][download][type] = "get"
 libraries[zendgdata][download][url] = "http://framework.zend.com/releases/ZendGdata-1.10.8/ZendGdata-1.10.8.tar.gz"
 libraries[zendgdata][directory_name] = "ZendGdata-1.10.8"
 libraries[zendgdata][destination] = "libraries"
+
+libraries[flexslider][download][type] = "get"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
+libraries[flexslider][directory_name] = "flexslider"
+libraries[flexslider][destination] = "libraries"
 
 libraries[jquerycycle][download][type] = "get"
 libraries[jquerycycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
