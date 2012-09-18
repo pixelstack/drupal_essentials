@@ -375,6 +375,9 @@ projects[themekey][subdir] = "contrib"
 projects[views] = 3.5
 projects[views][subdir] = "contrib"
 
+projects[draggableviews] = 2.0
+projects[draggableviews][subdir] = "contrib"
+
 projects[admin_views] = 1.0
 projects[admin_views][subdir] = "contrib"
 
