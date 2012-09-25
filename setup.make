@@ -399,7 +399,7 @@ projects[flexslider][subdir] = "contrib"
 projects[views_dependent_filters] = 1.0
 projects[views_dependent_filters][subdir] = "contrib"
 
-projects[better_exposed_filters] = 3.0-beta1
+projects[better_exposed_filters] = 3.0-beta2
 projects[better_exposed_filters][subdir] = "contrib"
 
 projects[global_filter] = 1.8
