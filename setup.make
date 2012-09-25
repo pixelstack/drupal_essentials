@@ -173,7 +173,7 @@ projects[captcha][subdir] = "contrib"
 projects[mollom] = 2.2
 projects[mollom][subdir] = "contrib"
 
-projects[honeypot] = 1.12
+projects[honeypot] = 1.13
 projects[honeypot][subdir] = "contrib"
 
 projects[eck] = 2.0-rc1
