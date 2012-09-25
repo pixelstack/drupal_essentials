@@ -450,7 +450,7 @@ projects[url_alias][subdir] = "contrib"
 projects[pathologic] = 2.2
 projects[pathologic][subdir] = "contrib"
 
-projects[redirect] = 1.0-beta4
+projects[redirect] = 1.0-rc1
 projects[redirect][subdir] = "contrib"
 
 projects[xmlsitemap] = 2.0-rc1
