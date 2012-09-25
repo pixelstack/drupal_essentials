@@ -447,7 +447,7 @@ projects[pathauto][subdir] = "contrib"
 projects[url_alias] = 1.0-alpha1
 projects[url_alias][subdir] = "contrib"
 
-projects[pathologic] = 2.2
+projects[pathologic] = 2.3
 projects[pathologic][subdir] = "contrib"
 
 projects[redirect] = 1.0-rc1
