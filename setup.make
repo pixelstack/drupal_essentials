@@ -328,7 +328,7 @@ projects[cs_adaptive_image][subdir] = "contrib"
 projects[insert] = 1.2
 projects[insert][subdir] = "contrib"
 
-projects[filefield_sources] = 1.5
+projects[filefield_sources] = 1.6
 projects[filefield_sources][subdir] = "contrib"
 
 projects[imageeditor] = 1.9
