@@ -74,7 +74,7 @@ projects[shield][subdir] = "contrib"
 projects[strongarm] = 2.0
 projects[strongarm][subdir] = "contrib"
 
-projects[coder] = 1.0
+projects[coder] = 1.1
 projects[coder][subdir] = "contrib"
 
 ; eCommerce
