@@ -289,7 +289,7 @@ projects[references][subdir] = "contrib"
 projects[nodereference_url] = 1.12
 projects[nodereference_url][subdir] = "contrib"
 
-projects[entityreference] = 1.0-rc3
+projects[entityreference] = 1.0-rc4
 projects[entityreference][subdir] = "contrib"
 
 ; Image
