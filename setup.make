@@ -483,6 +483,9 @@ projects[campaignmonitor][subdir] = "contrib"
 projects[coffee] = 1.0
 projects[coffee][subdir] = "contrib"
 
+projects[shortcutperrole] = 1.1
+projects[shortcutperrole][subdir] = "contrib"
+
 projects[module_filter] = 1.7
 projects[module_filter][subdir] = "contrib"
 
