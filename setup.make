@@ -474,6 +474,9 @@ projects[twitter][subdir] = "contrib"
 projects[mailchimp] = 2.6
 projects[mailchimp][subdir] = "contrib"
 
+projects[campaignmonitor] = 1.0-rc2
+projects[campaignmonitor][subdir] = "contrib"
+
 ; System
 ; ------------
 
