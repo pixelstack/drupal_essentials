@@ -480,6 +480,9 @@ projects[campaignmonitor][subdir] = "contrib"
 ; System
 ; ------------
 
+projects[mcd] = 1.2
+projects[mcd][subdir] = "contrib"
+
 projects[coffee] = 1.0
 projects[coffee][subdir] = "contrib"
 
