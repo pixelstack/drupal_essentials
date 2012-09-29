@@ -230,7 +230,7 @@ projects[emfield][subdir] = "contrib"
 ; projects[] = media_soundcloud
 ; projects[] = media_viddler
 
-projects[media_youtube] = 1.0-beta3
+projects[media_youtube] = 2.0-rc1
 projects[media_youtube][subdir] = "contrib"
 
 projects[media_vimeo] = 1.0-beta5
