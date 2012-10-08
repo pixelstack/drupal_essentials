@@ -633,7 +633,7 @@ projects[features][subdir] = "contrib"
 projects[features_override] = 2.0-beta1
 projects[features_override][subdir] = "contrib"
 
-projects[features_extra] = 1.x-dev
+projects[features_extra] = 1.0-alpha1
 projects[features_extra][subdir] = "contrib"
 
 projects[uuid_features] = 1.0-alpha1
