@@ -363,7 +363,7 @@ projects[panels][subdir] = "contrib"
 projects[context] = 3.0-beta4
 projects[context][subdir] = "contrib"
 
-projects[ds] = 1.5
+projects[ds] = 2.0
 projects[ds][subdir] = "contrib"
 
 projects[styleguide] = 1.0
