@@ -423,7 +423,7 @@ projects[prepro][subdir] = "contrib"
 projects[poshy_tip] = 1.0-beta2
 projects[poshy_tip][subdir] = "contrib"
 
-projects[fontyourface] = 2.4
+projects[fontyourface] = 2.5
 projects[fontyourface][subdir] = "contrib"
 
 ; SEO
