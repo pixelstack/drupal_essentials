@@ -723,11 +723,6 @@ libraries[modernizr][download][url] = "https://github.com/Modernizr/Modernizr.gi
 libraries[modernizr][filename] = "modernizr.min.js"
 libraries[modernizr][destination] = "libraries"
 
-libraries[zendgdata][download][type] = "get"
-libraries[zendgdata][download][url] = "http://framework.zend.com/releases/ZendGdata-1.10.8/ZendGdata-1.10.8.tar.gz"
-libraries[zendgdata][directory_name] = "ZendGdata-1.10.8"
-libraries[zendgdata][destination] = "libraries"
-
 libraries[flexslider][download][type] = "get"
 libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
 libraries[flexslider][directory_name] = "flexslider"
