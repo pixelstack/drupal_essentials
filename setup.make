@@ -501,7 +501,7 @@ projects[lazyloader][subdir] = "contrib"
 projects[better_formats] = 1.0-beta1
 projects[better_formats][subdir] = "contrib"
 
-projects[mandrill] = 1.1
+projects[mandrill] = 1.2
 projects[mandrill][subdir] = "contrib"
 
 projects[sendgrid_integration] = 1.0-alpha2
