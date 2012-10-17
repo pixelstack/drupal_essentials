@@ -15,7 +15,7 @@ core = 7.x
 ; ------------
 
 projects[drupal][type] = core
-projects[drupal][version] = 7.15
+projects[drupal][version] = 7.16
 
 ; Projects
 ; ------------
