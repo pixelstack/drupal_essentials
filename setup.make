@@ -594,7 +594,7 @@ projects[variable][subdir] = "contrib"
 projects[elysia_cron] = 2.1
 projects[elysia_cron][subdir] = "contrib"
 
-projects[ultimate_cron] = 1.6
+projects[ultimate_cron] = 1.7
 projects[ultimate_cron][subdir] = "contrib"
 
 projects[croninfinite] = 1.0
