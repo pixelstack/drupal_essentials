@@ -170,7 +170,7 @@ projects[uc_earlybird][subdir] = "contrib"
 projects[captcha] = 1.0-beta2
 projects[captcha][subdir] = "contrib"
 
-projects[mollom] = 2.2
+projects[mollom] = 2.3
 projects[mollom][subdir] = "contrib"
 
 projects[honeypot] = 1.13
