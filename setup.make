@@ -600,7 +600,7 @@ projects[ultimate_cron][subdir] = "contrib"
 projects[croninfinite] = 1.0
 projects[croninfinite][subdir] = "contrib"
 
-projects[background_process] = 1.12
+projects[background_process] = 1.13
 projects[background_process][subdir] = "contrib"
 
 projects[progress] = 1.3
