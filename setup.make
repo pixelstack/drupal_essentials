@@ -80,7 +80,7 @@ projects[coder][subdir] = "contrib"
 ; eCommerce
 ; ------------
 
-projects[commerce] = 1.3
+projects[commerce] = 1.4
 projects[commerce][subdir] = "contrib"
 
 projects[commerce_coupon] = 1.0-beta6
