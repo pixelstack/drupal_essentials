@@ -471,7 +471,7 @@ projects[google_plusone][subdir] = "contrib"
 projects[twitter] = 3.3
 projects[twitter][subdir] = "contrib"
 
-projects[mailchimp] = 2.6
+projects[mailchimp] = 2.7
 projects[mailchimp][subdir] = "contrib"
 
 projects[campaignmonitor] = 1.0-rc2
