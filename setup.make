@@ -483,6 +483,9 @@ projects[campaignmonitor][subdir] = "contrib"
 projects[mcd] = 1.3
 projects[mcd][subdir] = "contrib"
 
+projects[nodeblock] = 1.2
+projects[nodeblock][subdir] = "contrib"
+
 projects[coffee] = 1.0
 projects[coffee][subdir] = "contrib"
 
